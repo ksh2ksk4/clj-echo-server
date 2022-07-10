@@ -1,0 +1,15 @@
+* Bookmarks
+
+** UNIXドメインソケット
+
+- [[https://ja.wikipedia.org/wiki/UNIX%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88][UNIXドメインソケット]]
+- [[https://qiita.com/nk_yohn3301/items/7aec184e290940052ed2][Unixドメインソケットの確認]]
+
+[[https://qiita.com/hanohrs/items/a54487dcfc29bda1e55d][Java 16 から利用可能な Unix ドメイン ソケット]]
+[[https://yuya-hirooka.hatenablog.com/entry/2021/10/23/151006][JavaでUnix Domain Socketを使ってみる（Dockerのコンテナ一覧を取得する）]]
+[[https://inside.java/2021/02/03/jep380-unix-domain-sockets-channels/][JEP-380: Unix domain socket channels]]
+[[https://logico-jp.io/2021/02/05/jep-380-unix-domain-socket-channels/][JEP-380: Unix domain socket channels(日本語訳)]]
+
+** Java
+
+[[https://clojure.org/reference/java_interop][Java Interop]]
